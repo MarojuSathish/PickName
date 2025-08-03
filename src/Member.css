@@ -1,0 +1,17 @@
+.member-each {
+    max-width: 800px;
+    margin: auto;
+    border: 2px solid black;
+    background-color: yellow;
+    font-family: Arial;
+    font-style: italic;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px black;
+
+}
+.member-each:hover {
+    background-color: yellowgreen;
+    cursor: pointer;
+    transition: 1s ease;
+}

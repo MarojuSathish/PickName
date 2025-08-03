@@ -1,0 +1,11 @@
+.initial-Heading {
+  /* text-align: center; */
+  background-color: aquamarine;
+  color: rgb(12, 12, 12);
+  height: 150px;
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 4px 4px 20px black;
+}

@@ -1,0 +1,18 @@
+.members-details {
+  display :flex;
+  justify-content:center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+  height: 400px;
+}
+.buttontop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    font-weight: bold;
+    margin: 80px;
+    font-size: 30px;
+}

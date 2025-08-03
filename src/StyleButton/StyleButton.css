@@ -1,0 +1,19 @@
+.styled-Button {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 25px 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px black;
+}
+.styled-Button:hover {
+    background-color: rgb(236, 90, 6);
+    transition: 1s ease;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
